@@ -40,6 +40,7 @@ export default function Home() {
       </div>
 
       <div className={styles.grid}>
+      <p>Hello, World!</p> 
         <a
           href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
           className={styles.card}
